@@ -1,2 +1,3 @@
 esta es la historia en la que vamos a trabajar para 
-aprender a usar git
+aprender a usar git, donde ahora vamos a agregar mas
+texto para el segundo commit...

@@ -1,0 +1,2 @@
+esta es la historia en la que vamos a trabajar para 
+aprender a usar git
